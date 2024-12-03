@@ -51,6 +51,9 @@ from math import * #pi kasutamiseks
 # mid=(n1+n2+n3+n4+n5)/2
 # print("Среднее арифметическое число ваших 5 чисел равняется ", mid)
 
+# #Ülesanne 8
+# print("  @..@\n (----)\n( \__/ )\n ^^ "" ^^")
+
 # #Ülesanne 9
 # a = int(input("введи a: "))
 # b = int(input("введи b: "))
