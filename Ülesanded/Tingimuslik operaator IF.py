@@ -60,3 +60,52 @@ try:
         print("Choose Jah/Yes or Ei/No")
 except:
     print
+
+# Task 4
+price = int(input("введи цену: "))
+if price > 900:
+   price = price * 0.7
+print("Цена с учетом скидки:", price)
+
+# Task 5
+temp = int(input("Какая сейчас температура в градусах по Цельсию?"))
+if temp > 18:
+    print(f"Температура выше 18 градусов, целых: {temp} градусов по Цельсию")
+else:
+    print(f"Температура ниже 18 градусов, точнее: {temp} градусов по Цельсию")
+
+# Task 6
+height = int(input("Какой у вас рост?\n"))
+if height<151:
+    print("Вы низкий")
+elif height<191:
+    print("Вы среднего роста")
+else:
+    print("Вы высокий")
+
+# Task 7
+height = int(input("Какой у вас рост?\n"))
+sex = str(input("Какого вы пола? (M/F)"))
+if height<151:
+    if sex.upper()=="M":
+        print("Вы мужчина низкого роста")
+    elif sex.upper()=="F":
+        print("Вы женщина низкого роста")
+    else:
+        print("Введите корректные данные")
+elif height<191:
+    if sex.upper()=="M":
+        print("Вы мужчина среднего роста")
+    elif sex.upper()=="F":
+        print("Вы женщина среднего роста")
+    else:
+        print("Введите корректные данные")
+else:
+    if sex.upper()=="M":
+        print("Вы мужчина высокого роста")
+    elif sex.upper()=="F":
+        print("Вы женщина высокого роста")
+    else:
+        print("Введите корректные данные")
+
+# Task 8
