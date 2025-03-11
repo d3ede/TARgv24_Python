@@ -1,0 +1,26 @@
+France-Paris
+Germany-Berlin
+Italy-Rome
+Spain-Madrid
+United Kingdom-London
+Netherlands-Amsterdam
+Belgium-Brussels
+Sweden-Stockholm
+Norway-Oslo
+Denmark-Copenhagen
+Finland-Helsinki
+Poland-Warsaw
+Czech Republic-Prague
+Austria-Vienna
+Switzerland-Bern
+Greece-Athens
+Portugal-Lisbon
+Ireland-Dublin
+Hungary-Budapest
+Slovakia-Bratislava
+Slovenia-Ljubljana
+Croatia-Zagreb
+Serbia-Belgrade
+Romania-Bucharest
+Bulgaria-Sofia
+Ukraine-Kyiv
